@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "920180131515",
+    "firebase_url": "https://api1-27017.firebaseio.com",
+    "project_id": "api1-27017",
+    "storage_bucket": "api1-27017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920180131515:android:202ab86107f2c812",
+        "android_client_info": {
+          "package_name": "com.example.milky.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920180131515-4o78f20uomfbvarnhr4veom8jvuip0jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9JQJEMMFGaaFDhiAjricrNCAroE_9-dQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
